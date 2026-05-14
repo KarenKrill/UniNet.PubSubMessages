@@ -1,4 +1,4 @@
 {
 	"displayName": "Basic Sample",
-	"description": "Example of using the service using DI and Mirror. Extenject and Mirror must be installed before installation."
+	"description": "Example of using the service using DI and Mirror. Extenject and Mirror must be installed before installation.\nZenject: https://github.com/modesttree/Zenject.git?path=UnityProject/Assets/Plugins/Zenject"
 }
