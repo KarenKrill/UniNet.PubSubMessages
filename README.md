@@ -6,7 +6,7 @@ The implementation is based on Mirror library, but abstractions allow for integr
 
 The Mirror implementation requires the Mirror package to be pre-installed. You can install it from the Unity Asset Store or via Git from my fork:
 ```
-https://github.com/modesttree/Zenject.git?path=UnityProject/Assets/Plugins/Zenject
+https://github.com/KarenKrill/Mirror.Fork.git?path=Assets/Mirror
 ```
 
 Some samples requires Zenject/Extenject to be pre-installed:
