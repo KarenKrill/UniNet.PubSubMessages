@@ -8,6 +8,11 @@
   "dependencies": {
     "com.unity.test-framework": "1.1.33"
   },
+  "samples": {
+    "displayName": "Basic Sample",
+    "description": "Example of using the service using DI and Mirror. Extenject and Mirror must be installed before installation.",
+    "path": "Samples~/BasicSample"
+  },
   "author": {
     "name": "KarenKrill",
     "url": "https://github.com/KarenKrill",
@@ -15,5 +20,10 @@
   },
   "changelogUrl": "https://github.com/KarenKrill/UniNet.PubSubMessages/blob/main/CHANGELOG.md",
   "documentationUrl": "https://github.com/KarenKrill/UniNet.PubSubMessages/blob/main/README.md",
-  "licensesUrl": "https://github.com/KarenKrill/UniNet.PubSubMessages/blob/main/LICENSE"
+  "licensesUrl": "https://github.com/KarenKrill/UniNet.PubSubMessages/blob/main/LICENSE",
+  "repository": {
+    "url": "https://github.com/KarenKrill/UniNet.PubSubMessages.git",
+    "type": "git",
+    "revision": "b9fb80c9db58b91408d2cc964e24cb8817cc4179"
+  }
 }
