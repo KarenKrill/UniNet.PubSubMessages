@@ -6,7 +6,7 @@
   "unityRelease": "45f1",
   "description": "A service for sending network messages in publisher/subscriber mode. Unlike the classic PubSub pattern, the publisher knows about subscribers and receives subscription events.\n\nThe implementation is based on Mirror library, but abstractions allow for integration with other network libraries.",
   "dependencies": {
-    "com.unity.test-framework": "1.6.0"
+    "com.unity.test-framework": "1.1.33"
   },
   "author": {
     "name": "KarenKrill",
