@@ -1,0 +1,16 @@
+{
+    "name": "KarenKrill.UniNet.PubSubMessages.Mirror",
+    "rootNamespace": "KarenKrill.UniNet.PubSubMessages.Mirror",
+    "references": [
+        "GUID:bdb69dbc59fa9ec49b538b9e176a9f7b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,4 @@
+{
+	"displayName": "Basic Sample",
+	"description": "Example of using the service using DI and Mirror. Extenject and Mirror must be installed before installation."
+}

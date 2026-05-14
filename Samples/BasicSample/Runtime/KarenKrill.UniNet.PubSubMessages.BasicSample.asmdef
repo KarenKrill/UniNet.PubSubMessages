@@ -1,0 +1,14 @@
+{
+    "name": "KarenKrill.UniNet.PubSubMessages.BasicSample",
+    "rootNamespace": "KarenKrill.UniNet.PubSubMessages.BasicSample",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

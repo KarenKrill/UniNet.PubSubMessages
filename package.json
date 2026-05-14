@@ -1,0 +1,19 @@
+{
+  "name": "com.karenkrill.uninet.pubsub-messages",
+  "displayName": "UniNet.PubSubMessages",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "unityRelease": "45f1",
+  "description": "A service for sending network messages in publisher/subscriber mode. Unlike the classic PubSub pattern, the publisher knows about subscribers and receives subscription events.\n\nThe implementation is based on Mirror library, but abstractions allow for integration with other network libraries.",
+  "dependencies": {
+    "com.unity.test-framework": "1.6.0"
+  },
+  "author": {
+    "name": "KarenKrill",
+    "url": "https://github.com/KarenKrill",
+    "email": "vampart1997@gmail.com"
+  },
+  "changelogUrl": "https://github.com/KarenKrill/UniNet.PubSubMessages/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/KarenKrill/UniNet.PubSubMessages/blob/main/README.md",
+  "licensesUrl": "https://github.com/KarenKrill/UniNet.PubSubMessages/blob/main/LICENSE"
+}
