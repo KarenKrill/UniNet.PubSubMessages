@@ -8,11 +8,13 @@
   "dependencies": {
     "com.unity.test-framework": "1.1.33"
   },
-  "samples": {
-    "displayName": "Basic Sample",
-    "description": "Example of using the service using DI and Mirror. Extenject and Mirror must be installed before installation.",
-    "path": "Samples~/BasicSample"
-  },
+  "samples": [
+    {
+      "displayName": "Basic Sample",
+      "description": "Example of using the service using DI and Mirror. Extenject and Mirror must be installed before installation.",
+      "path": "Samples~/BasicSample"
+    }
+  ],
   "author": {
     "name": "KarenKrill",
     "url": "https://github.com/KarenKrill",
